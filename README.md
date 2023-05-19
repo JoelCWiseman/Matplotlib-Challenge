@@ -1,6 +1,6 @@
 # Matplotlib-Challenge
 
-In this challenge you will find a summarication of the data from multiple studies in Mice of the range of experimental treatments for tumors. Care was taken to ensure that any duplicates were accounted for a removed from the reported data set to avoid potential 
+In this challenge you will find a summarization of the data from multiple studies in Mice of the range of experimental treatments for tumors. Care was taken to ensure that any duplicates were accounted for a removed from the reported data set to avoid potential 
 double reporting of data for that subject, which would skew the results.
 
 Upon initial review out of the 10 potential treatments, 2 appear to be promising for further research given their ability to reduce tumor growth. The successful treatments are Capomulin and Ramicane, they both produced the lowest tumor volumes throughout the 
